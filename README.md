@@ -1,2 +1,2 @@
 # BiQu-Hurakan-Klipper-Backup
-Backup config files for BIQU HURAKAN 
+Backup Klipper config files for BIQU HURAKAN 
